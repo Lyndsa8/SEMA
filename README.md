@@ -1,0 +1,2 @@
+# SEMA
+Sema aggregation platform
